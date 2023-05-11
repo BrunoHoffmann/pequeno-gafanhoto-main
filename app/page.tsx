@@ -34,10 +34,10 @@ export default function Home() {
       <div className="relative flex place-items-center">
         <ul>
           <li>
-            <Link href="/javascript">JavaScript</Link>
+            <Link href="/docker">Docker</Link>
           </li>
           <li>
-            <Link href="/kafka">Kafka</Link>
+            <Link href="/nextjs">Next.js</Link>
           </li>
         </ul>
       </div>
