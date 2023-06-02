@@ -6,11 +6,11 @@ export type Item = {
 
 export const demos: { name: string; items: Item[] }[] = [
   {
-    name: 'Layouts',
+    name: 'JavaScript',
     items: [
       {
-        name: 'Nested Layouts',
-        slug: 'layouts',
+        name: 'Array and loops',
+        slug: 'javascript',
         description: 'Create UI that is shared across routes',
       },
       {
