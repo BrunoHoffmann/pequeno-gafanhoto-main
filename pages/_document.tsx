@@ -8,11 +8,7 @@ export default function Document() {
         <link href="/pg-logo.png" rel="icon" sizes="32x32" type="image/png" />
         <link href="/pg-logo.png" rel="icon" sizes="16x16" type="image/png" />
         <link href="/favicon/site.webmanifest" rel="manifest" />
-        <link
-          color="#000000"
-          href="/favicon/safari-pinned-tab.svg"
-          rel="mask-icon"
-        />
+        <link color="#000000" href="/pg-logo.svg" rel="mask-icon" />
         <link href="/favicon/favicon.ico" rel="shortcut icon" />
       </Head>
       <body className="bg-gray-1100 overflow-y-scroll bg-[url('/grid.svg')]">
