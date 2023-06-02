@@ -14,9 +14,9 @@ export const demos: { name: string; items: Item[] }[] = [
         description: 'Array and loops in javascript, how to work',
       },
       {
-        name: 'Grouped Layouts',
-        slug: 'route-groups',
-        description: 'Organize routes without affecting URL paths',
+        name: 'Class and attributes',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
       },
     ],
   },
