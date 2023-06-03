@@ -17,8 +17,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className="[color-scheme:light]">
-      <body className="bg-gray-1100 overflow-y-scroll bg-[url('/grid.svg')] pb-36">
+    <html lang="en">
+      <body className="bg-gray-1100 overflow-y-scroll pb-36">
         <GlobalNav />
 
         <div className="lg:pl-72">

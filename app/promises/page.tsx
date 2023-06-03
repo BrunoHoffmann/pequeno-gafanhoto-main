@@ -1,13 +1,26 @@
 export default function Page() {
   return (
     <div className="prose prose-sm prose-invert max-w-none">
-      <h1 className="text-xl font-bold">Classes e Atributos</h1>
-
+      <h1 className="text-xl font-bold">Promises</h1>
+      <ul>
+        <li>
+          In the world of JavaScript, asynchronous operations play a crucial
+          role in building responsive and efficient web applications. However,
+          handling asynchronous tasks can sometimes be challenging and lead to
+          complex and error-prone code. That&#39;s where JavaScript promises
+          come to the rescue. Promises provide a clean and intuitive way to
+          manage asynchronous operations and handle their results. In this blog
+          post, we will delve into the world of JavaScript promises, exploring
+          their purpose, syntax, and the benefits they offer.
+        </li>
+      </ul>
       <article>
-        <h2>CLASSLIST</h2>
+        <h2>What are Promises?</h2>
         <p>
-          Retorna uma lista com as classes do elemento. Permite adicionar,
-          remover e verificar se contém.
+          Promises in JavaScript are objects that represent the eventual
+          completion (or failure) of an asynchronous operation. They serve as
+          placeholders for future results and simplify working with asynchronous
+          code. Here&#39;s an example:
         </p>
       </article>
       <pre className="bg-slate-100  text-black">

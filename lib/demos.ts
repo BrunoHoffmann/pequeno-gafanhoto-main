@@ -14,8 +14,8 @@ export const demos: { name: string; items: Item[] }[] = [
         description: 'Array and loops in javascript, how to work',
       },
       {
-        name: 'Class and attributes',
-        slug: 'class-attributes',
+        name: 'Promises',
+        slug: 'promises',
         description: 'Class and attributes in javascript',
       },
     ],
