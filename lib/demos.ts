@@ -24,12 +24,52 @@ export const demos: { name: string; items: Item[] }[] = [
     name: 'Node',
     items: [
       {
-        name: 'Promise',
+        name: 'Event-driven Architecture',
         slug: 'git-basic',
         description: 'Array and loops in javascript, how to work',
       },
       {
-        name: 'Three',
+        name: 'Streams and Performance Optimization',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Microservices Architecture',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Serverless Computing',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Advanced Debugging and Profiling Techniques',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Building Real-time Applications with WebSockets',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Integration Testing and Continuous Integration',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Performance Monitoring and Optimization',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Authentication and Authorization Best Practices',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+      {
+        name: 'Advanced Networking and Protocols',
         slug: 'class-attributes',
         description: 'Class and attributes in javascript',
       },
