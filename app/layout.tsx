@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: {
-    default: 'Next.js App Router',
+    default: 'Pequeno gafanhoto',
     template: '%s | Next.js App Router',
   },
   description:
