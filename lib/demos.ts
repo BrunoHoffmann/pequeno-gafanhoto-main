@@ -21,6 +21,21 @@ export const demos: { name: string; items: Item[] }[] = [
     ],
   },
   {
+    name: 'Node',
+    items: [
+      {
+        name: 'Promise',
+        slug: 'git-basic',
+        description: 'Array and loops in javascript, how to work',
+      },
+      {
+        name: 'Three',
+        slug: 'class-attributes',
+        description: 'Class and attributes in javascript',
+      },
+    ],
+  },
+  {
     name: 'Git',
     items: [
       {
