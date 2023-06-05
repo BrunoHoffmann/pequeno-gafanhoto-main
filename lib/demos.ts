@@ -24,14 +24,9 @@ export const demos: { name: string; items: Item[] }[] = [
     name: 'Node',
     items: [
       {
-        name: 'Event-driven Architecture',
-        slug: 'git-basic',
-        description: 'Array and loops in javascript, how to work',
-      },
-      {
         name: 'Streams and Performance Optimization',
-        slug: 'class-attributes',
-        description: 'Class and attributes in javascript',
+        slug: 'streams-performance',
+        description: 'Streams and Performance Optimization',
       },
       {
         name: 'Microservices Architecture',
