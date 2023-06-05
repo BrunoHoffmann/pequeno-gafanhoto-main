@@ -24,34 +24,19 @@ export const demos: { name: string; items: Item[] }[] = [
     name: 'Node',
     items: [
       {
-        name: 'Streams and Performance Optimization',
+        name: 'Streams',
         slug: 'streams-performance',
         description: 'Streams and Performance Optimization',
       },
       {
-        name: 'Microservices Architecture',
-        slug: 'class-attributes',
-        description: 'Class and attributes in javascript',
+        name: 'WebSockets',
+        slug: 'websockets',
+        description: 'Building Real-time Applications with WebSockets',
       },
       {
-        name: 'Serverless Computing',
-        slug: 'class-attributes',
-        description: 'Class and attributes in javascript',
-      },
-      {
-        name: 'Advanced Debugging and Profiling Techniques',
-        slug: 'class-attributes',
-        description: 'Class and attributes in javascript',
-      },
-      {
-        name: 'Building Real-time Applications with WebSockets',
-        slug: 'class-attributes',
-        description: 'Class and attributes in javascript',
-      },
-      {
-        name: 'Integration Testing and Continuous Integration',
-        slug: 'class-attributes',
-        description: 'Class and attributes in javascript',
+        name: 'Testing and Continuous Integration',
+        slug: 'testing-and-integration',
+        description: 'Integration Testing and Continuous Integration',
       },
       {
         name: 'Performance Monitoring and Optimization',
