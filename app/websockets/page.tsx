@@ -17,7 +17,7 @@ export default function Page() {
         </p>
       </article>
       <article>
-        <h3>Understanding WebSockets:</h3>
+        <h3>Understanding WebSockets</h3>
         <p>Overview of WebSockets and their role in real-time communication.</p>
         <p>
           Contrasting WebSockets with traditional HTTP request-response model.
@@ -28,7 +28,7 @@ export default function Page() {
         </p>
       </article>
       <article>
-        <h3>Setting Up a WebSocket Server:</h3>
+        <h3>Setting Up a WebSocket Server</h3>
         <p>
           Choosing a WebSocket library or framework for your server-side
           implementation.
@@ -64,7 +64,7 @@ server.listen(3000, () => {
         </pre>
       </article>
       <article>
-        <h3>Establishing WebSocket Connections:</h3>
+        <h3>Establishing WebSocket Connections</h3>
         <p>Understanding the WebSocket handshake process.</p>
         <p>Establishing WebSocket connections from client-side applications.</p>
         <p>
@@ -94,7 +94,7 @@ socket.on('disconnect', () => {
         </pre>
       </article>
       <article>
-        <h3>Broadcasting Messages:</h3>
+        <h3>Broadcasting Messages</h3>
         <p>Broadcasting messages to all connected clients.</p>
         <p>Sending targeted messages to specific clients.</p>
         <p>
@@ -118,7 +118,7 @@ io.on('connection', (socket) => {
         </pre>
       </article>
       <article>
-        <h3>Handling Rooms and Namespace:</h3>
+        <h3>Handling Rooms and Namespace</h3>
         <p>Organizing WebSocket connections into rooms or namespaces.</p>
         <p>Sending messages to specific rooms or namespaces.</p>
         <p>
